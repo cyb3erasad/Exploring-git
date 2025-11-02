@@ -1,1 +1,2 @@
 This is first file in Three directory
+Fix bugs
